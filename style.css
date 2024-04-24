@@ -4,13 +4,9 @@
     
 }
 .Parágrafo{
-font-size: 4rem;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 10rem;
+font-family: "Lato", sans-serif;
 text-align: left;
-}
-*{.lato-regular {
-    font-family: "Lato", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+font-weight: 400;
+font-style: normal;
 }
