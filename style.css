@@ -1,10 +1,13 @@
-*{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 body {
     margin: 10;
     padding: 0;
 }
-.flex-container{
+
+.flex-container {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -13,7 +16,8 @@ body {
     margin: 0;
     list-style: none;
 }
-.flex-item{
+
+.flex-item {
     background-color: aquamarine;
     justify-content: center;
     padding: 5px;
@@ -26,6 +30,7 @@ body {
     text-align: center;
     margin: 31px;
 }
+
 section {
     margin-bottom: 40px;
     height: 100vh;
@@ -34,28 +39,51 @@ section {
 .atração {
     margin-bottom: 20px;
 }
-h1{
+
+h1 {
     justify-content: center;
 }
-#paragrafo{
+
+#paragrafo {
     margin: 20px;
     font-size: 20px;
     text-align: justify;
 }
-#titulo{
+
+#titulo {
     font-size: 100px;
     font-family: 'Courier New', Courier, monospace;
 }
-#titulo2{
+
+#titulo2 {
     font-size: 50px;
 }
-#brinquedos{
+
+#titulo3 {
+    font-size: 50px;
+}
+#titulo4 {
+        font-size: 50px;
+    }
+#brinquedos {
     font-size: 40px;
 }
-#frase{
+#brinquedos2 {
+    font-size: 40px;
+}
+#brinquedos3 {
+    font-size: 40px;
+}
+#frase {
     font-size: 20px;
 }
-.imagem{
+#frase2 {
+    font-size: 20px;
+}
+#frase3 {
+    font-size: 20px;
+}
+.imagem {
     height: 400px;
     width: auto;
 }
