@@ -49,10 +49,13 @@ h1{
 #titulo2{
     font-size: 50px;
 }
-.flex-container{display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    padding: 0;
-    margin: 0;
-    list-style: none;}
+#brinquedos{
+    font-size: 40px;
+}
+#frase{
+    font-size: 20px;
+}
+.imagem{
+    height: 400px;
+    width: auto;
+}
